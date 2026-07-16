@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/banner.svg" alt="Satya Prakash Khuntia — Founding Data Scientist & ML Engineer, Precision Oncology" />
+<img width="100%" src="assets/banner.svg?v=2" alt="Satya Prakash Khuntia — Founding Data Scientist & ML Engineer, Precision Oncology" />
 
 <a href="https://linkedin.com/in/satya-prakash-khuntia-ds">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
