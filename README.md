@@ -10,6 +10,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" />
 
+Email me - satya@4basecare.com | prkshk.satya@gmail.com (personal)
+
 ### About
 
 I build the ML systems behind precision oncology at **4baseCare**, where I joined as a founding member of the data science team and built out its ML infrastructure from zero. My work spans three areas:
